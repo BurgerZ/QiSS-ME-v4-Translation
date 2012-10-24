@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_by">
+        <item>Все загрузки</item>
+        <item>Браузер</item>
+        <item>QiSS Маркет</item>
+        <item>Темы</item>
+        <item>Обновления</item>
+    </string-array>
+</resources>

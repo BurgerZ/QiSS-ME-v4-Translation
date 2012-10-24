@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QiSS маркет</string>
+    <string name="app_installed">Уствановленные</string>
+    <string name="app_install_successfully">Установика выполнена успешно</string>
+    <string name="app_install_failed">Ошибка установк</string>
+    <string name="net_link_error">Ошибка ссылки</string>
+    <string name="net_error_dialog">Ошибка сети, нажмите повторить или отмена, для возвращения</string>
+    <string name="dialog_retry">Повторить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="downloading">Загрузка...</string>
+    <string name="click_install">Установить</string>
+    <string name="one_key_to_install">Установить</string>
+    <string name="no_application">Пусто</string>
+    <string name="necessary_apps">Приложения</string>
+    <string name="oneclick_install_apps">Коллекция</string>
+    <string name="refresh_app_list">Обновить</string>
+    <string name="error_read_server">Ошибка сервера</string>
+    <string name="error_sdcard">SD карта не доступена</string>
+    <string name="net_error_toast">Сеть не доступена</string>
+    <string name="info_use_mobile_connection">Будет использована мобильная передача данных. Нажмите продолжить или отменить.</string>
+    <string name="dialog_yes">Да</string>
+    <string name="menu_unselect_all_items">Отменить выбор</string>
+    <string name="menu_select_all_items">Выбрать все</string>
+    <string name="tab_name_widget">Виджеты</string>
+    <string name="dialog_title_net_link">Ссылка</string>
+</resources>

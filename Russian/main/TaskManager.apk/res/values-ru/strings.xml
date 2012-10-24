@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диспетчер задач</string>
+    <string name="txt_btn_kill_all">Заверш. все</string>
+    <string name="txt_btn_kill">Заверш.</string>
+    <string name="txt_btn_remove">Удалить</string>
+    <string name="txt_btn_remove_all">Удалить все</string>
+    <string name="txt_menu_autokill">Список автозавершения</string>
+    <string name="txt_menu_setting">Настройки</string>
+    <string name="txt_menu_exit">Выход</string>
+    <string name="txt_menu_white_list">Исключения</string>
+    <string name="context_menu_kill">Завершить</string>
+    <string name="context_menu_select">Выбрать</string>
+    <string name="context_menu_addto">Добавить в список автозавершения</string>
+    <string name="context_menu_addwhite">Добавить в списрк исключений</string>
+    <string name="setting_title">Настройки</string>
+    <string name="autokill_title">Список автозавершения</string>
+    <string name="cb_enable_auto_kill">Включить автозавершение</string>
+    <string name="txt_list_no_data">[Нет данных]</string>
+    <string name="hint">Подсказка</string>
+    <string name="hint_message">Если приложение, существующие в списке исключений, добавить в список автозавершения, оно автоматически будет удалено из списка исключений</string>
+    <string name="hint_message_auto">Если приложение, существующие в автозавершения, добавить в список исключений, оно автоматически будет удалено из списка автозавершения</string>
+    <string name="dialog_yes">OK</string>
+    <string name="dialog_no">Отмена</string>
+</resources>

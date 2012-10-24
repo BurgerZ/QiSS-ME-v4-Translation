@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_server_url">http://meservice.qiss.mobi/MyUIService/BugLog/post.php</string>
+    <string name="error_report_directory">Репорты</string>
+    <string name="error_report_file_pattern">%04d</string>
+    <string name="error_report_file_suffix">.log</string>
+    <string name="app_name">Репорт ошибок</string>
+    <string name="thanks_feedback">Спасибо за ваш отзыв</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>3 недели</item>
+        <item>4 недели</item>
+        <item>5 недель</item>
+        <item>6 недель</item>
+        <item>7 недель</item>
+        <item>8 недель</item>
+        <item>9 недель</item>
+        <item>10 недель</item>
+        <item>11 недель</item>
+        <item>12 недель</item>
+    </string-array>
+    <string-array name="icon_choices">
+        <item>Удалить иконку</item>
+        <item>Изменить иконку</item>
+    </string-array>
+    <string-array name="list_preference">
+        <item>UTF-8</item>
+        <item>Big5</item>
+        <item>GBK</item>
+    </string-array>
+    <string-array name="setas_items">
+        <item>Звук вызова</item>
+        <item>Caller ringtone</item>
+        <item>Звук будильника</item>
+        <item>Звук уведомления</item>
+    </string-array>
+    <string-array name="theme_colors">
+        <item>Синяя</item>
+        <item>Оранжевая</item>
+    </string-array>
+    <string-array name="theme_colors_value">
+        <item>-1</item>
+        <item>-2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort">
+        <item>Время и дата</item>
+        <item>Имя</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="camera">
+        <item>Камера</item>
+        <item>Галерея(максимум 800кб )</item>
+    </string-array>
+    <string-array name="draw">
+        <item>Рисунок</item>
+        <item>Запись</item>
+    </string-array>
+    <string-array name="editdrawoption">
+        <item>Удалить</item>
+        <item>Редактировать</item>
+    </string-array>
+    <string-array name="editrecordoption">
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="editphotooption">
+        <item>Удалить</item>
+        <item>Редактировать</item>
+    </string-array>
+    <string-array name="editclicksoundbar">
+        <item>Прослушать</item>
+        <item>Перезаписать</item>
+    </string-array>
+    <string-array name="settingsdisplay">
+        <item>Просмотр миниатюр</item>
+        <item>Подробности</item>
+        <item>Список</item>
+    </string-array>
+    <array name="backupoption_none" />
+    <array name="backupoption">
+        <item>@string/sdcard_title</item>
+        <item>Dropbox</item>
+    </array>
+    <array name="backupoption_no_dropbox">
+        <item>@string/sdcard_title</item>
+    </array>
+    <array name="backupoption5f">
+        <item>@string/sdcard_title</item>
+        <item>Dropbox</item>
+    </array>
+    <array name="backupoption5f_no_dropbox">
+        <item>@string/sdcard_title</item>
+    </array>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="record_your_message">Записать ваше сообщение</string>
+    <string name="message_recorded">Сообщение записано</string>
+    <string name="review_message">Review message</string>
+    <string name="recording">Запись</string>
+    <string name="pause">Пауза</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">Память заполненаl</string>
+    <string name="max_length_reached">Достигнута максимальная длина</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
+    <string name="min_available">Доступно %d мин.</string>
+    <string name="sec_available">Доступно %d сек.</string>
+    <string name="unmount_sd_card">SD карта извлечена</string>
+    <string name="shared_sd_card">Please turn off USB storage to access SD card</string>
+    <string name="save">Сохранить запись</string>
+    <string name="accept">Использовать эту запись</string>
+    <string name="discard">Отменить</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="press_record">Нажмите запись</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="audio_db_album_name">Аудио записи</string>
+    <string name="audio_db_playlist_name">Записи</string>
+    <string name="error_sdcard_access">Нет доступа к SD-карте</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="error_app_unsupported">Неподдерживаемый формат</string>
+    <string name="error_mediadb_new_record">Не удается сохранить аудиозапись</string>
+    <string name="error_mediadb_incall">Этот параметр поддерживается только во время разговора</string>
+    <string name="button_retake">Повторить</string>
+    <string name="maxtimer_format" formatted="false">Макс:%02d:%02d:%02d</string>
+    <string name="maxtimer_format_2" formatted="false">%02d:%02d:%02d</string>
+    <string name="total_format" formatted="false">Всего:%02d:%02d</string>
+    <string name="record_complete">Запись завершена</string>
+    <string name="share">Отправить</string>
+    <string name="setas">Установить в качестве рингтона</string>
+    <string name="rename">Переименовать</string>
+    <string name="delete">Удалить</string>
+    <string name="del_msg">Вы хотите удалить эту запись?</string>
+    <string name="set_msg">Вы хотите установить как рингтон?</string>
+    <string name="del_confirm">Запись была удалена.</string>
+    <string name="set_confirm">Установлено.</string>
+    <string name="rename_confirm">Переименовано.</string>
+    <string name="message">Сообщение</string>
+    <string name="email">Email</string>
+    <string name="bt">Bluetooth</string>
+    <string name="recorder_format_title">Формат</string>
+    <string name="recorder_format_amr">AMR</string>
+    <string name="recorder_format_amrwb">AMRWB</string>
+    <string name="recorder_format_3gpp">3GPP</string>
+    <string name="recorder_quality_title">Высокое качество</string>
+    <string name="recorder_quality_summary">При высоком качестве, размер файла будет больше</string>
+    <string name="file_exists">Этот файл уже существует.</string>
+    <string name="sdcard_missing_title">Нет SD карты</string>
+    <string name="sdcard_busy_title">SD карта недоступна</string>
+    <string name="file_is_saved">Сохранить на SD карте.</string>
+    <string name="irregular_file_name">Irregular file name.</string>
+    <string name="use_recording">Использовать эту запись?</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>Звук и вибр.</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Без звука</item>
+    </string-array>
+    <array name="title_transformations">
+        <item>@string/transformation_type_classic</item>
+        <item>@string/transformation_type_classic_no_overshoot</item>
+        <item>@string/transformation_type_crossfade</item>
+        <item>@string/transformation_type_stack</item>
+        <item>@string/transformation_type_tablet</item>
+        <item>@string/transformation_type_falldown</item>
+        <item>@string/transformation_type_cube</item>
+        <item>@string/transformation_type_3dwall</item>
+    </array>
+    <string-array name="key_transformations">
+        <item>pref_key_transformation_classic</item>
+        <item>pref_key_transformation_classic_no_overshoot</item>
+        <item>pref_key_transformation_corss_fade</item>
+        <item>pref_key_transformation_stack</item>
+        <item>pref_key_transformation_left_tablet</item>
+        <item>pref_key_transformation_fall_down</item>
+        <item>pref_key_transformation_cube</item>
+        <item>pref_key_transformation_3dwall</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+</resources>

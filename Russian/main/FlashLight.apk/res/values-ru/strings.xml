@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, flashlightmain!</string>
+    <string name="app_name">Фонарик</string>
+    <string name="morse_edit_title">Сообщение на азбуке Морзе :</string>
+    <string name="morse_edit_hint">Введите текст сообщения</string>
+    <string name="morse_choose_message">Пожалуйста, выберите допустимое сообщение!</string>
+    <string name="morse_saved_message">Сообщение сохранено!</string>
+    <string name="hint_title">Подсказка</string>
+    <string name="hint_string">Вы так-же можете запустить фонарик с экрана блокировки. Для запуска нажмите и удерживайте кнопку "Home".</string>
+    <string name="hint_dont_show">Польше не показывать.</string>
+    <string name="ok">OK</string>
+</resources>

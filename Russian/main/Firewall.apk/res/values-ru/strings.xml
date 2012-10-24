@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firewall</string>
+    <string name="applying_rules">Применение правил</string>
+    <string name="saving_rules">Сохранение правил</string>
+    <string name="deleting_rules">Удаление правил</string>
+    <string name="rules_applied">Правила применены</string>
+    <string name="rules_saved">Правила сохранены</string>
+    <string name="rules_deleted">Правила удалены</string>
+    <string name="working">Работаю...</string>
+    <string name="reading_apps">Загрузка установленных приложений</string>
+    <string name="toast_bin_installed">Приложения уже установлены!</string>
+    <string name="toast_error_enabling">Ошибка включения фаервола!</string>
+    <string name="app_list">Список приложений</string>
+    <string name="firewall_status">Статус</string>
+</resources>
